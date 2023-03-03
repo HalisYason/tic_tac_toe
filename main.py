@@ -5,7 +5,7 @@ class app(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
         self.geometry("300x360")
-        self.title("tik tak toe")
+        self.title("tic tac toe")
 
 
         menubar = tk.Menu(self)
@@ -237,4 +237,4 @@ if __name__=="__main__":
 
 
 
-# TİK TAK TOE
+# TİC TAC TOE
