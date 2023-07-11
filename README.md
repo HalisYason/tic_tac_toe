@@ -1,3 +1,4 @@
 # tic_tac_toe
 
--- tkinter
+- tkinter kullanıldı
+## 
